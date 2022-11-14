@@ -1,0 +1,50 @@
+.card {
+    border: 0;
+}
+
+.card-body {
+    text-align: center;
+}
+
+input {
+    width: 300px;
+    padding: 10px;
+    font-size: 50px;
+    border-radius: 30px;
+    padding-right: 20px;
+    text-align: end;
+    outline: none;
+    border: 0;
+    background-color: #282828;
+    color: yellowgreen;
+}
+
+button {
+    padding: 20px;
+    height: 60px;
+    margin-right: 13px;
+    margin-top: 10px;
+    border: 0;
+    border-radius: 20px;
+    background-color: #AFAFAF;
+}
+
+.calculator {
+    background-color: #282828;
+    border-radius: 15px;
+    padding: 20px;
+    width: fit-content;
+    margin: auto;
+}
+
+.highlight {
+    background-color: yellowgreen;
+}
+
+.equal {
+    width: 110px;
+}
+
+.symbol {
+    background-color: ghostwhite;
+}
